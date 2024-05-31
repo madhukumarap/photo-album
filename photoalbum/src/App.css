@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.albums {
+  margin-bottom: 20px;
+}
+
+.albums button {
+  margin: 5px;
+}
+
+.photo-viewer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.photo-viewer img {
+  max-width: 600px;
+  max-height: 400px;
+}
+
+.photo-viewer button {
+  margin: 0 10px;
+}
+
+.upload-photo {
+  margin-top: 20px;
+}
